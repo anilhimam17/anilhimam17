@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Getting into Harvard University.
 - 🌱 I’m currently learning Python for Web development and Artificial Intelligence.
 - 🤔 I’m looking for help with Artificial Intelligence
 - 💬 Ask me about Arduino and Python
