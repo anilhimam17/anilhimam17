@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🤖 An aspiring AI and Computer Science enthusiast.<br>- 👨‍💻 Currently learning TensorFlow and Computer Vision.<br>- ✨ Passionate about using technology to solve real-world problems. <br>- 🌱 Nature lover interested in leveraging AI to combat climate change. <br>- 💻 Enjoy building cool things, whether it's software or tinkering with electronics.</p>
+<p align="left">- 🤖 An aspiring AI Engineer and Computer Scientist.<br>- 💻 2x Kaggle Expert | Completed Machine Learning Specialisation and Deep Learning Specialisation by DeepLearning.AI on Coursera with distinction.<br>- 👨‍💻 Currently learning Advanced C++ and mastering Computer Vision.<br>- ✨ Passionate about leveraging Computer Science and AI to build transformative solutions that solve real-world problems.<br>- 👀 Absolutely adore working under pressure.<br>- 🌱 Nature lover at heart and enjoy building cool things, whether it's software or tinkering with electronics.</p>
 
 ###
 
@@ -23,11 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
@@ -40,10 +36,6 @@
   <img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
 </div>
 
 ###
