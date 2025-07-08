@@ -1,79 +1,33 @@
-<h2 align="left">Hi There, I am Godugu Anil Himam ✨</h2>
+# 💫 About Me:
+### Hi there, I'm Anil 👋<br>
+<br>I'm a **Graduate Software Engineer** specialising in the intersection of **High-Performance Computing (HPC)** and **Artificial Intelligence (AI)**. My passion is writing performant C++ and Python code to accelerate systems, from low-level hardware interaction to large-scale AI/ML frameworks.
 
-###
+---
 
-<p align="left">- 🤖 An aspiring AI Engineer and Computer Scientist.<br>- 💻 2x Kaggle Expert | Completed Machine Learning Specialisation and Deep Learning Specialisation by DeepLearning.AI on Coursera with distinction.<br>- 👨‍💻 Currently learning Advanced C++ and mastering Computer Vision.<br>- ✨ Passionate about leveraging Computer Science and AI to build transformative solutions that solve real-world problems.<br>- 👀 Absolutely adore working under pressure.<br>- 🌱 Nature lover at heart and enjoy building cool things, whether it's software or tinkering with electronics.</p>
+### 🚀 My Core Focus<br>
+<br>*   **🔹 High-Performance AI/ML:** My project work showcases this, including a C++/SYCL project where I achieved a **269x performance speedup** through GPU acceleration.
+<br>*   **🔹 End-to-End Systems:** I have hands-on experience across the full ML pipeline, with a strong emphasis on **Generative AI, Computer Vision, and NLP**.
+<br>*   **🔹 Leadership & Collaboration:** I thrive in team environments, having led a team of 11 to develop a modular conversational AI system from the ground up.
 
-###
+---
 
-<h2 align="left">Tech Stack 📚</h2>
+### 🔭 What I'm Working On Now<br><br>
+*   **🧠 Foundational Skills:** I continuously sharpen my skills by maintaining a public repository of **Data Structures & Algorithms** implemented in both C++ and Python.
+*   **🧠 Conversational AI and RL:** I am currently building projects in Conversational AI and Reinforcement Learning to improve my skills.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+### 📫 Get In Touch<br>
+<br>*   **LinkedIn:** [Link to your LinkedIn Profile](https://www.linkedin.com/in/godugu-anil-himam-040158170/)
+<br>*   **Email:** anilhimamg@gmail.com
 
-###
+---
 
-<h2 align="left">Contributions 🙃</h2>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anilhimam17&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=anilhimam17&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anilhimam17&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anilhimam17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anilhimam17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=anilhimam17&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<h2 align="left">Let's get Acquainted 🤟🏼</h2>
-
-###
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3h3YTVvdDZ2aGRuMDV1cjl4bXlmOW1idnVub3Z5bXcwamkyNTE3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6yU5mAiUaJZFj8lpPn/giphy.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/godugu-anil-himam-040158170/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="anilhimamg@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="goduguanilhimam_03668" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
