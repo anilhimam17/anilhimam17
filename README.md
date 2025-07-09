@@ -18,7 +18,7 @@
 ---
 
 ### 📫 Get In Touch<br>
-<br>*   **LinkedIn:** [Link to your LinkedIn Profile](https://www.linkedin.com/in/godugu-anil-himam-040158170/)
+<br>*   **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/godugu-anil-himam-040158170/)
 <br>*   **Email:** anilhimamg@gmail.com
 
 ---
