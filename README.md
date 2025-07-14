@@ -1,25 +1,21 @@
 # 💫 About Me:
 ### Hi there, I'm Anil 👋<br>
-<br>I'm a **Graduate Software Engineer** specialising in the intersection of **Artificial Intelligence (AI)** and **High-Performance Computing (HPC)**. My passion is for writing beautiful Python code working on **ETL Framework** to train and validate models and to accelerate systems using robust and efficient C++, from low-level hardware interaction to large-scale AI/ML frameworks.
-
----
+I'm a **Graduate Software Engineer** specialising in the intersection of **Artificial Intelligence (AI)** and **High-Performance Computing (HPC)**. My passion is for writing beautiful Python code working on **ETL Framework** to train and validate models and to accelerate systems using robust and efficient C++, from low-level hardware interaction to large-scale AI/ML frameworks.<br>
 
 ### 🚀 My Core Focus<br>
-<br>*   **🔹 End-to-End Systems:** I have hands-on experience across the full ML pipeline, with a strong emphasis on **Generative AI, Computer Vision, and NLP**.
-<br>*   **🔹 High-Performance AI/ML:** My project work showcases this, including a C++/SYCL project where I achieved a **269x performance speedup** through GPU acceleration.
-<br>*   **🔹 Leadership & Collaboration:** I thrive in team environments, having led a team of 11 to develop a modular conversational AI system from the ground up.
+   **🔹 End-to-End Systems:** I have hands-on experience across the full ML pipeline, with a strong emphasis on **Generative AI, Computer Vision, and NLP**.
+<br>   **🔹 High-Performance AI/ML:** My project work showcases this, including a C++/SYCL project where I achieved a **269x performance speedup** through GPU acceleration.
+<br>   **🔹 Leadership & Collaboration:** I thrive in team environments, having led a team of 11 to develop a modular conversational AI system from the ground up.<br>
 
----
-
-### 🔭 What I'm Working On Now<br><br>
-*   **🧠 Foundational Skills:** I continuously sharpen my skills by maintaining a public repository of **Data Structures & Algorithms** implemented in both C++ and Python.
-*   **🧠 Conversational AI and RL:** I am currently building a tool in Conversational AI to improve the access to complex knowledge using AI research companions / tutors.
+### 🔭 What I'm Working On Now<br>
+   **🧠 Foundational Skills:** I continuously sharpen my skills by maintaining a public repository of **Data Structures & Algorithms** implemented in both C++ and Python.
+<br>   **🧠 Conversational AI and RL:** I am currently building a tool in Conversational AI to improve the access to complex knowledge using AI research companions / tutors.
 
 ---
 
 ### 📫 Get In Touch<br>
-<br>*   **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/godugu-anil-himam-040158170/)
-<br>*   **Email:** anilhimamg@gmail.com
+   **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/godugu-anil-himam-040158170/)
+<br>   **Email:** anilhimamg@gmail.com
 
 ---
 
