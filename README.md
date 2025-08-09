@@ -9,7 +9,8 @@ I'm a **Graduate Software Engineer** specialising in the intersection of **Artif
 
 ### 🔭 What I'm Working On Now<br>
    **🧠 Foundational Skills:** I continuously sharpen my skills by maintaining a public repository of **Data Structures & Algorithms** implemented in both C++ and Python.
-<br>   **🧠 Conversational AI and RL:** I am currently building a tool in Conversational AI to improve the access to complex knowledge using AI research companions / tutors.
+<br>   **🏃 LongTerm Sprint:** I am now on a longterm sprint enhancing my research skills, developement skills and other assorted tools to become a great `AI Research Engineer` with the goal to push a paper to a premier conference in 2026.  
+Follow me to tag along on this long, exciting and transformative journey from the bottom all the way to the top.
 
 ---
 
