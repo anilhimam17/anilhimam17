@@ -1,10 +1,10 @@
 # Long Term Sprint 🏃
 
-## The Grind 🛣️ - Since 10th Aug, 2025
+## The Grind 🛣️ - Since 15th Aug, 2025
 ### Month - 1 (Foundations)
 - [ ] Week 1-2
-    - DSA Completion in two weeks with C++ and Python ImplementationsKey areas of focus:Trees, Graphs and Dynamic Programming
-    - Blaze through the PyTorch Official Tutorials.
+    - DSA Completion in two weeks with C++ and Python Implementations Key areas of focus: Trees, Graphs and Dynamic Programming `Skipped for now, Too Boring will apply JIT Learning`
+    - Blaze through the PyTorch Official Tutorials `Lets Gooo ✅`
 - [ ] Week 3-4
     - Work on Math
         1. Linear Algebra: MIT 18.06 (Gilbert Strang) - Focus on eigenvectors, SVD, matrix decompositions
