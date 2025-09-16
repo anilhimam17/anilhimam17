@@ -5,7 +5,7 @@ This list is based on the [Next Twelve Months - Markdown File](./NextTwelveMonth
 ## Papers
 ### The Chronicles of the Transformer
 - [x] Attention is All You Need (Multihead Attention Mechanisms, Positional Embeddings) -> `31st Aug, 2024`
-- [ ] An Image is Worth 16 x 16 Words (Vision Transformers)
+- [x] An Image is Worth 16 x 16 Words (Vision Transformers)
 - [ ] Advanced Attention Mechanisms
     - [ ] Cross-Attention Implementation based on the OG Transformer
     - [ ] Efficient Attention
