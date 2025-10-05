@@ -6,20 +6,17 @@ This list is based on the [Next Twelve Months - Markdown File](./NextTwelveMonth
 ### The Chronicles of the Transformer
 - [x] Attention is All You Need (Multihead Attention Mechanisms, Positional Embeddings) -> `31st Aug, 2025`
 - [x] An Image is Worth 16 x 16 Words (Vision Transformers) -> `17th Sept, 2025`
+- [ ] CLIP - Connecting Text to Images -> `In Progress 🏗️`
 - [ ] Advanced Attention Mechanisms
     - [ ] Cross-Attention Implementation based on the OG Transformer
-    - [ ] Efficient Attention
-        - [ ] Linformer
-        - [ ] Performer
+    - [ ] Efficient Attention (`Implementation`)
         - [ ] Longformer
-    - [ ] Sparse Transformer and Big Bird (`Really Long Transformers`)
-    - [ ] Flash Attention
-- [ ] Mixture of Experts
-- [ ] Mixtral of Experts
-- [ ] Llama 2
-- [ ] Llama 3
+        - [ ] Sparse Transformer and Big Bird (`Really Long Transformers`)
+        - [ ] Flash Attention
+    - [ ] Efficient Attention (`Paper Review`): Linformer, Performer
+- [ ] Mixture of Experts - Mixtral of Experts
+- [ ] Llama 2 - Llama 3
 - [ ] RAG
-- [ ] CLIP - Connecting Text to Images
 
 ### The Stochastic World of Generation powered by Diffusion
 - [ ] Variational AutoEncoder's and ß-Variational AutoEncoder's
