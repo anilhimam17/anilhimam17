@@ -6,7 +6,7 @@ This list is based on the [Next Twelve Months - Markdown File](./NextTwelveMonth
 ### The Chronicles of the Transformer
 - [x] Attention is All You Need (Multihead Attention Mechanisms, Positional Embeddings) -> `31st Aug, 2025`
 - [x] An Image is Worth 16 x 16 Words (Vision Transformers) -> `17th Sept, 2025`
-- [ ] CLIP - Connecting Text to Images -> `In Progress 🏗️`
+- [x] CLIP - Connecting Text to Images -> `10th Oct, 2025`
 - [ ] Advanced Attention Mechanisms
     - [ ] Cross-Attention Implementation based on the OG Transformer
     - [ ] Efficient Attention (`Implementation`)
@@ -62,3 +62,8 @@ This list is based on the [Next Twelve Months - Markdown File](./NextTwelveMonth
     - [ ] Neural Architecture Search
     - [ ] Multi-Objective Evolutionary Algorithms -> NSGA-II and NSGA-III
     - [ ] Quality Diversity and Open-Ended Evolution
+
+### Miscellaneous
+- [ ] Quantisation
+- [ ] LoRA and QLoRA -> `In Progress 🏗️`
+- [ ] Weights and Biases
