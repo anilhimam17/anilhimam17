@@ -12,7 +12,7 @@ This list is based on the [Next Twelve Months - Markdown File](./NextTwelveMonth
     - [ ] Efficient Attention (`Implementation`)
         - [ ] Longformer
         - [ ] Sparse Transformer and Big Bird (`Really Long Transformers`)
-        - [ ] Flash Attention
+        - [ ] Flash Attention -> `In Progress`
     - [ ] Efficient Attention (`Paper Review`): Linformer, Performer
 - [ ] Mixture of Experts - Mixtral of Experts
 - [ ] Llama 2 - Llama 3
@@ -65,5 +65,6 @@ This list is based on the [Next Twelve Months - Markdown File](./NextTwelveMonth
 
 ### Miscellaneous
 - [ ] Quantisation
-- [ ] LoRA and QLoRA -> `In Progress 🏗️`
+- [x] LoRA -> `19th Oct, 2025`
+- [ ] QLoRA
 - [ ] Weights and Biases
