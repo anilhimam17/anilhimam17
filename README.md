@@ -4,7 +4,7 @@ I'm an **AI Engineer** with a singular focus: applying **Artificial Intelligence
 
 ## 🚀 My Core Focus<br>
 **🔹 End-to-End Systems:** I have hands-on experience across the full ML pipeline, with a strong emphasis on `Generative AI, Computer Vision and Integrating LLMs with RAG`.<br>
-**🔹 Mathematical FoundationsL:** I have strong foundations in the Math behind modern AI algorithms to enable causally grounded inference along with the ability to search for performance in numbers.<br>
+**🔹 Mathematical Foundations:** I have strong foundations in the Math behind modern AI algorithms to enable causally grounded inference along with the ability to search for performance in numbers.<br>
 **🔹 Leadership & Collaboration:** I thrive in team environments, I have led multiple team projects during high-school and university. Most notably I have led a team of 11 to develop a modular conversational AI system from the ground up.<br>
 
 ## 🏁 My Current Mission<br>
