@@ -98,6 +98,3 @@ If you're working at the intersection of AI and high-performance sport, I'd like
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anilhimamg@gmail.com)
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilhimam17&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anilhimam17&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
