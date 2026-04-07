@@ -16,13 +16,13 @@ Outside of AI, I follow **F1, WEC, and MotoGP** obsessively — and I'm actively
 
 ## Core Focus
 
-**Generative AI & LLMs** — RAG pipelines, agentic workflows, fine-tuning with PEFT/LoRA, multimodal systems
+**Generative AI & LLMs**: RAG pipelines, agentic workflows, fine-tuning with PEFT/LoRA, multimodal systems
 
-**Computer Vision** — CLIP, ViT, most recently exploring DINO, SAM, DETR and Diffusion
+**Computer Vision**: CLIP, ViT, most recently exploring DINO, SAM, DETR and Diffusion
 
-**ML Engineering** — ETL pipelines, experiment tracking (W&B), model deployment (HuggingFace Spaces, Gradio)
+**ML Engineering**: ETL pipelines, experiment tracking (W&B), model deployment (HuggingFace Spaces, Gradio)
 
-**Motorsport AI** — Tyre degradation modelling, race strategy tools, telemetry analysis with FastF1
+**Motorsport AI**: Tyre degradation modelling, race strategy tools, telemetry analysis with FastF1
 
 ---
 
@@ -47,7 +47,7 @@ Outside of AI, I follow **F1, WEC, and MotoGP** obsessively — and I'm actively
 - Achieved a **3.5–4.5/5 user satisfaction score** with 95% confidence.
 
 ### 🏎️ [F1 Race Debrief — Data Analysis & Multivariate Modelling](https://github.com/anilhimam17)
-Race debriefs using FastF1 with multivariate modelling across tyre degradation, weather, and driving style for the Saudi Arabia and São Paulo Grand Prix events.
+- Race debriefs using FastF1 with multivariate modelling across tyre degradation, weather, and driving style for the Saudi Arabia and São Paulo Grand Prix events.
 
 ---
 
@@ -64,7 +64,7 @@ Race debriefs using FastF1 with multivariate modelling across tyre degradation, 
 
 ## Experience
 
-**Software Engineering Intern** @ IntelliDigest, Edinburgh *(Aug–Nov 2024)*
+**Software Engineering Intern** @ IntelliDigest, Edinburgh *(Aug–Nov 2024)*:
 - Designed and implemented an ETL pipeline processing 10GB+ healthcare and food production datasets. 
 - Built an automated Plotly visualisation suite generating 10+ geography-aware statistical plots for stakeholder decision making.
 
